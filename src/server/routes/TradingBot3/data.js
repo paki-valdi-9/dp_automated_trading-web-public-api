@@ -1,0 +1,1 @@
+// TODO: If there is a neccessity to create a separate data for different trading bots use example from /routes/TradingBot1
