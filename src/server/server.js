@@ -23,7 +23,6 @@ mongoose
 const corsOptions = {
   origin: [
     "https://dp-automated-trading-web.onrender.com",
-    "https://dp-automated-trading-web-public-api.onrender.com/api-docs/",
     "http://localhost:3000",
     "http://127.0.0.1:3000",
   ],
